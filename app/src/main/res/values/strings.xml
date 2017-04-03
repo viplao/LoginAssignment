@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginAssignment</string>
+
+    <!-- Strings related to login -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password (Min 6 characters)</string>
+    <string name="label_log_in">Log in</string>
+    <string name="error_invalid_username">Username cannot contain space or @ symbol</string>
+
+</resources>
